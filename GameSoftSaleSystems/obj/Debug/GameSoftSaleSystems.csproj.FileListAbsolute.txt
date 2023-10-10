@@ -1,0 +1,11 @@
+D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\bin\Debug\GameSoftSaleSystems.exe.config
+D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\bin\Debug\GameSoftSaleSystems.exe
+D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\bin\Debug\GameSoftSaleSystems.pdb
+D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.csproj.AssemblyReference.cache
+D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.Properties.Resources.resources
+D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.csproj.GenerateResource.cache
+D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.csproj.CoreCompileInputs.cache
+D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.exe
+D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.pdb
+D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.Form2.resources
+D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.FormMainmenu.resources
