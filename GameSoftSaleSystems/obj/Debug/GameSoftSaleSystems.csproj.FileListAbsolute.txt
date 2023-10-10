@@ -7,5 +7,6 @@ D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.cs
 D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.csproj.CoreCompileInputs.cache
 D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.exe
 D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.pdb
-D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.Form2.resources
 D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.FormMainmenu.resources
+D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.FormSetting.resources
+D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.FormSubscription.resources
