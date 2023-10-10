@@ -27,6 +27,12 @@ namespace GameSoftSaleSystems
                 case "FormMainmenu":
                     frm = new FormMainmenu();
                     break;
+                case "FormSetting":
+                    frm = new FormSetting();
+                    break;
+                case "FormSubscription":
+                    frm = new FormSubscription();
+                    break;
             }
 
             //フォームを透明化
@@ -41,6 +47,16 @@ namespace GameSoftSaleSystems
         private void button1_Click(object sender, EventArgs e)
         {
             OpenForm("FormMainmenu");
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            OpenForm("FormSetting");
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            OpenForm("FormSubscription");
         }
     }
 }
